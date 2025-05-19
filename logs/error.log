@@ -1,0 +1,3 @@
+2025-05-19T12:40:27.426Z [ERROR]: Error connecting to database: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-05-19T13:01:50.810Z [ERROR]: Error connecting to database: connect ECONNREFUSED ::1:3333, connect ECONNREFUSED 127.0.0.1:3333
+2025-05-19T13:06:06.446Z [ERROR]: Error connecting to database: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
